@@ -1,3 +1,5 @@
+ ## About Me
+
 I am a Computer Engineering student at Alamein International University with a strong passion for technology, design, and innovation. My expertise spans both technical and creative domains, allowing me to bridge the gap between hardware and software while working on impactful projects.
 
 Skills & Expertise
