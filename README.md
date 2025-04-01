@@ -13,7 +13,7 @@ I'm a **Computer Engineering student at Alamein International University** with 
 - **Engineering Tools**: AutoCAD, Logic Design, Software Engineering
 
 ## 📌 Current Projects
-- **Student Information System (SIS)** - A web-based system using **CSS, JavaScript (Frontend), Java (Backend)**.
+- **Python Basic Network Sniffer** - A Python-based network packet sniffer that captures and analyzes network traffic in real-time.**.
 - **Accommodation Finder App** - Helping newcomers in Alexandria find **the closest available motels** based on their university location.
 - **Git & Version Control** - Improving workflows with **Visual Studio Code & Git**.
 
