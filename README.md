@@ -17,7 +17,7 @@ I'm a **Computer Engineering student at Alamein International University** with 
 - **Accommodation Finder App** - Helping newcomers in Alexandria find **the closest available motels** based on their university location.
 
 ## 📫 Let's Connect
-- **LinkedIn**: [arsanyehab](https://www.linkedin.com/in/arsanyehab)  
+- **LinkedIn**: [ArsanyEhab](https://www.linkedin.com/in/arsanyehab)  
 - **GitHub**: [ArsanyEhab](https://github.com/ArsanyEhab)   
 - **Email**: arsanyehab222@gmail.com
 
