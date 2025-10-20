@@ -10,7 +10,7 @@
 <h2>👋 Welcome to My GitHub Profile</h2>
 
 <p>
-I'm a AI Engineering student at <strong>Alamein International University</strong> with a strong passion for <strong>technology, design, and innovation</strong>. I specialize in mobile app development with <strong>Flutter</strong>, full-stack development, and <strong>cybersecurity</strong>, blending technical expertise with creative problem-solving.
+I'm an AI Engineering student at <strong>Alamein International University</strong> with a strong passion for <strong>technology, design, and innovation</strong>. I specialize in mobile app development with <strong>Flutter</strong>, full-stack development, and <strong>cybersecurity</strong>, blending technical expertise with creative problem-solving.
 </p>
 
 ---
