@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsany Ehab</h1>
-<h3 align="center">Computer Engineering Student | Flutter Developer | Java Developer | Full-Stack Developer | Cybersecurity Specialist | Relational Database Expert</h3>
+<h3 align="center">AI Engineering Student | Data Analyst & Visualizer | Flutter Developer | Java Developer | Full-Stack Developer | Cybersecurity Specialist | Relational Database Expert</h3>
 
 <p align="center">
 🚀 Turning Ideas Into Reality • Tech-Driven • Design-Focused • Security-Aware
@@ -10,7 +10,7 @@
 <h2>👋 Welcome to My GitHub Profile</h2>
 
 <p>
-I'm a Computer Engineering student at <strong>Alamein International University</strong> with a strong passion for <strong>technology, design, and innovation</strong>. I specialize in mobile app development with <strong>Flutter</strong>, full-stack development, and <strong>cybersecurity</strong>, blending technical expertise with creative problem-solving.
+I'm a AI Engineering student at <strong>Alamein International University</strong> with a strong passion for <strong>technology, design, and innovation</strong>. I specialize in mobile app development with <strong>Flutter</strong>, full-stack development, and <strong>cybersecurity</strong>, blending technical expertise with creative problem-solving.
 </p>
 
 ---
@@ -28,25 +28,15 @@ I'm a Computer Engineering student at <strong>Alamein International University</
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </li>
 
-  <li><strong>Mobile App Development:</strong><br>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <li><strong>AI & ML:</strong><br>
+   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="40" height="40"/>
   </li>
 
-  <li><strong>Frontend Development:</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </li>
-
-  <li><strong>Backend & Database:</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </li>
-
-  <li><strong>Cybersecurity:</strong><br>
-    <img src="https://cdn-icons-png.freepik.com/512/6783/6783360.png" alt="google-cybersecurity" width="40" height="40"/>
+  <li><strong>Backend & Database:</strong><br>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </li>
 
   <li><strong>DevOps & Tools:</strong><br>
@@ -55,23 +45,36 @@ I'm a Computer Engineering student at <strong>Alamein International University</
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </li>
 
-  <li><strong>AI & ML:</strong><br>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="tensorflow" width="40" height="40"/>
+  <li><strong>Frontend Development:</strong><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </li>
 
-  <li><strong>Design & Creativity:</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    <img src="https://img.icons8.com/fluent/600/coreldraw-2021.png" alt="coreldraw" width="40" height="40"/>
+  <li><strong>Mobile App Development:</strong><br>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </li>
+
+
+
 
   <li><strong>Engineering & Hardware:</strong><br>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     <img src="https://ciptasatria.com/wp-content/uploads/autodesk-autocad-architecture-product-icon.svg" alt="autocad" width="40" height="40"/>
-    <img src="https://static.thenounproject.com/png/1343265-200.png" alt="logic design" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5314/5314434.png" alt="logic design" width="40" height="40"/>
   </li>
+
+  <li><strong>Design & Creativity:</strong><br>
+   <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" alt="premiere" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
+   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png" alt="coreldraw" width="40" height="40"/>
+ </li>
 </ul>
+
+
 
 ---
 
