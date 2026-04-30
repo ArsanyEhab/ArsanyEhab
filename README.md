@@ -32,17 +32,18 @@ AI Engineering Student • Flutter Developer • Full-Stack Developer • Cybers
 ### 🤖 AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
 </p>
 
 ---
 
 ### 📊 Data Analysis & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=excel" />
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
 ---
