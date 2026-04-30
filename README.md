@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arsany Ehab</h1>
-<h3 align="center">AI Engineering Student | Data Analyst & Visualizer | Flutter Developer | Java Developer | Full-Stack Developer | Cybersecurity Specialist | Relational Database Expert</h3>
+
+<h3 align="center">
+AI Engineering Student • Flutter Developer • Full-Stack Developer • Cybersecurity Specialist
+</h3>
 
 <p align="center">
 🚀 Turning Ideas Into Reality • Tech-Driven • Design-Focused • Security-Aware
@@ -7,95 +10,142 @@
 
 ---
 
-<h2>👋 Welcome to My GitHub Profile</h2>
+## 👨‍💻 About Me
 
+🎓 AI Engineering student at **Alamein International University**  
+💡 Passionate about **Technology, AI, and Innovation**  
+📱 Specialized in **Flutter Mobile Development**  
+🔐 Strong background in **Cybersecurity & Full-Stack Development**  
+🎨 Blending **Design + Engineering** to build impactful solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
-I'm an AI Engineering student at <strong>Alamein International University</strong> with a strong passion for <strong>technology, design, and innovation</strong>. I specialize in mobile app development with <strong>Flutter</strong>, full-stack development, and <strong>cybersecurity</strong>, blending technical expertise with creative problem-solving.
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,dart,js,php" />
 </p>
 
 ---
 
-<h2>🛠️ Tech Stack & Skills</h2>
-
-<ul>
-  <li><strong>Languages & Programming:</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </li>
-
-  <li><strong>AI & ML:</strong><br>
-   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="40" height="40"/>
-  </li>
-
-  <li><strong>Data Analysis & Visualization:</strong><br>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </li>
-
-
-  <li><strong>Backend & Database:</strong><br>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </li>
-
-  <li><strong>DevOps & Tools:</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </li>
-
-  <li><strong>Frontend Development:</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </li>
-
-  <li><strong>Mobile App Development:</strong><br>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </li>
-
-
-
-
-  <li><strong>Engineering & Hardware:</strong><br>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <img src="https://ciptasatria.com/wp-content/uploads/autodesk-autocad-architecture-product-icon.svg" alt="autocad" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5314/5314434.png" alt="logic design" width="40" height="40"/>
-  </li>
-
-  <li><strong>Design & Creativity:</strong><br>
-   <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
-   <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" alt="premiere" width="40" height="40"/>
-   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
-   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png" alt="coreldraw" width="40" height="40"/>
- </li>
-</ul>
-
-
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
 ---
 
-<h2>📫 Let's Connect</h2>
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+---
+
+### 🌐 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+---
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,sqlite" />
+</p>
+
+---
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+</p>
+
+---
+
+### 🔌 Engineering & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.icons8.com/color/48/autocad.png" width="40"/>
+</p>
+
+---
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/coreldraw.png" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsanyEhab&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArsanyEhab&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsanyEhab&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Smart Accommodation App (Flutter + Firebase)  
+🔹 Network Sniffer Tool  
+🔹 Java POS System (Team Project)  
+🔹 RFID Attendance System (ESP8266 + PHP Backend)  
+
+---
+
+## 🏆 Certifications
+
+✔ Google Cybersecurity Professional Certificate  
+✔ IBM AI & Data Science Certifications  
+✔ Java & OOP Specializations  
+✔ Ethical Hacking Foundations  
+✔ Quantum Computing (QBronze)  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/arsanyehab" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsanyehab" height="40" width="50" />
+  <a href="https://linkedin.com/in/arsanyehab">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:arsanyehab222@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
 </p>
 
-<p>
-📧 Email: <a href="mailto:arsanyehab222@gmail.com">arsanyehab222@gmail.com</a><br>
-🌐 GitHub: <a href="https://github.com/ArsanyEhab">github.com/ArsanyEhab</a><br>
-🤝 Open to collaboration on projects related to <strong>Computer Engineering, AI, Design, or Technology Development</strong>!
+---
+
+## 💡 Quote
+
+> "Code is not just logic — it's creativity turned into reality."
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/ArsanyEhab">ArsanyEhab</a>
 </p>
