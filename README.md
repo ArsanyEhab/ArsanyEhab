@@ -12,10 +12,9 @@ AI Engineering Student • Flutter Developer • Full-Stack Developer • Cybers
 
 ## 👨‍💻 About Me
 
-🎓 AI Engineering student at **Alamein International University**  
+🎓 Cybersecurity Engineering student at **Alamein International University**  
 💡 Passionate about **Technology, AI, and Innovation**  
-📱 Specialized in **Flutter Mobile Development**  
-🔐 Strong background in **Cybersecurity & Full-Stack Development**  
+📱 Specialized in   Strong background in **Flutter Mobile Development & Full-Stack Development**  
 🎨 Blending **Design + Engineering** to build impactful solutions  
 
 ---
