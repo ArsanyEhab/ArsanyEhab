@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsany Ehab</h1>
 
 <h3 align="center">
-AI Engineering Student • Flutter Developer • Full-Stack Developer • Cybersecurity Specialist
+Cybersecurity Engineering Student • Flutter Developer • Full-Stack Developer • AI Specialist
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ AI Engineering Student • Flutter Developer • Full-Stack Developer • Cybers
 
 🎓 Cybersecurity Engineering student at **Alamein International University**  
 💡 Passionate about **Technology, AI, and Innovation**  
-📱 Specialized in   Strong background in **Flutter Mobile Development & Full-Stack Development**  
+📱 Specialized in Strong background in **Machine Learning, Flutter Mobile Development & Full-Stack Development**  
 🎨 Blending **Design + Engineering** to build impactful solutions  
 
 ---
